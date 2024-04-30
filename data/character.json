@@ -1,0 +1,16 @@
+{
+    "alice":{
+        "name":"Alice",
+        "age":20,
+        "occupation":"Student",
+        "likes":"Cute Things",
+        "dislikes":"Ghost"
+    },
+    "megumi":{
+        "name":"Megumi",
+        "age": 18,
+        "occupation":"Student",
+        "likes":"Music and Games",
+        "dislikes": "Study"
+    }
+}
